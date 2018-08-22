@@ -1,6 +1,6 @@
-# ore
+# ore (ongoing reporting tool) for gitlab
 
-> An A2D reporting tool for git.grid.
+> This is a VueJS based gitlab reporting tool that teams can use to view different types of data.
 
 ## Build Setup
 
